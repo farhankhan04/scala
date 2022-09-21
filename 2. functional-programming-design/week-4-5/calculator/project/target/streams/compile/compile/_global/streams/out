@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/i341850/Documents/the-red-pill/scala/2. functional-programming-design/week-4-5/calculator/project/StudentTasks.scala:138:11: object tools is not a member of package scala[0m
+[0m[[0m[31merror[0m] [0m[0m    scala.tools.nsc.io.File(path).writeAll(base64Jar)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

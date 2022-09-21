@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/i341850/Documents/the-red-pill/scala/4.%20big-data-analysis-with-scala-and-spark/wikipedia/project/"), "wikipedia-build")...[0m
+[0m[[0m[33mwarn[0m] [0m[0mUnrecognized repository Scala Plugin Bundled Repository, ignoring it[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/i341850/Documents/the-red-pill/scala/4.%20big-data-analysis-with-scala-and-spark/wikipedia/project/"), "wikipedia-build")[0m
